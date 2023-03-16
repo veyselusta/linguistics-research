@@ -127,6 +127,7 @@ A curated list of anything remotely related to linguistics
 - [Conlang Corner](https://discord.gg/cwyHUH4k)
 - [Conlang Community](https://discord.gg/hmNYXb5f)
 - [Klein's Community](https://discord.gg/tqUFJBYX)
+- [Linguistics](https://discord.gg/wFG8Z7GF)
 
 ### Turkish
 
