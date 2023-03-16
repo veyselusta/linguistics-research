@@ -7,9 +7,9 @@ A curated list of anything remotely related to linguistics
 ## Table of Contents
 - [Books](#books)
   * [General](#general)
-  * [Phonetics](#phonetics)
   * [Semantics](#semantics)
   * [Style](#style)
+  * [Phonology](#phonology)
 - [Papers](#papers)
 - [YouTube](#youtube)
 -  [Websites](#websites)
@@ -113,6 +113,7 @@ A curated list of anything remotely related to linguistics
 - [Syntax and Cognitive Science](https://www.jonsprouse.com/courses/syntax-cognitive-science/)
 - [The Lambda Calculator](http://lambdacalculator.com/)
 - [English Pronunciation Madrid](https://www.englishpronunciationmadrid.com/)
+- [Human Who Read Grammar](http://humans-who-read-grammars.blogspot.com/2018/02/testing-grammarlys-grammaticality.html)
 
 ### Conlang
 - [Types of Conlang](https://youtu.be/fGcEMQC-L-4)
@@ -152,6 +153,7 @@ A curated list of anything remotely related to linguistics
 - [An Analysis of the Problem-Causing Structures of Simple Sentences for Turkish University Students](https://www.ijhssnet.com/journals/Vol_2_No_3_February_2012/19.pdf)
 - [The Role Of Semantic Features in Turkish Word Order](https://api.semanticscholar.org/CorpusID:144358254)
 - [Do non-native languages have an effect on word order processing in first language Turkish?](https://journals.sagepub.com/doi/10.1177/1367006917703454)
+- [A tree-based approach for English-to-Turkish translation](https://acikerisim.isikun.edu.tr/xmlui/bitstream/handle/11729/1481/1481.pdf?sequence=1&isAllowed=y)
 
 ##### Videos
 
