@@ -100,6 +100,8 @@ A curated list of anything remotely related to linguistics
 - [mariahpattieworldbuilding](https://www.youtube.com/@mariahpattieworldbuilding4062)
 - [Kentonadultesl](https://www.youtube.com/@Kentonadultesl)
 - [vickimellos](https://www.youtube.com/@vickiemellos170)
+- [The Milu Project](https://www.youtube.com/@themiluproject1454)
+- [Lichen the Fictioneer](https://www.youtube.com/@Lichenthefictioneer/videos)
 
 ### Websites
 - [Free Online Language Arts and Linguistics Courses from Top Universities](https://learningpath.org/articles/Free_Online_Language_Arts_and_Linguistics_Courses_from_Top_Universities.html)
@@ -169,6 +171,7 @@ A curated list of anything remotely related to linguistics
 - https://github.com/seanpm2001/PolyGlot
 - https://github.com/DevelopersTree/KurdishResources
 - https://github.com/menzenski/Uyghur-resources
+- [East Asian Linguistics Library](https://docs.google.com/document/d/1-7r08S06ZYVtQFLRhWYQQZtB4zeX2ROPg5RUghhKLoU/edit)
 ### License
 
 [MIT](https://github.com/veyselusta/linguistics-research/blob/main/LICENSE) © [veyselusta](https://github.com/veyselusta)
