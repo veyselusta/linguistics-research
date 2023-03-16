@@ -5,6 +5,7 @@
 - Add 'East Asian Linguistics Bibliography'
 - Add 'Human Who Read Grammar'
 - Add 'A tree-based approach for English-to-Turkish translation'
+- Add 'LangTimeStudio'
 
 ### 16/03/2023
 Release of the first **complete** version of the Linguistics research

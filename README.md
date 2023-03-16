@@ -102,6 +102,7 @@ A curated list of anything remotely related to linguistics
 - [vickimellos](https://www.youtube.com/@vickiemellos170)
 - [The Milu Project](https://www.youtube.com/@themiluproject1454)
 - [Lichen the Fictioneer](https://www.youtube.com/@Lichenthefictioneer/videos)
+- [LangTimeStudio](https://www.youtube.com/@LangTimeStudio/videos)
 
 ### Websites
 - [Free Online Language Arts and Linguistics Courses from Top Universities](https://learningpath.org/articles/Free_Online_Language_Arts_and_Linguistics_Courses_from_Top_Universities.html)
