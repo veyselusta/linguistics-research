@@ -41,6 +41,7 @@ A curated list of anything remotely related to linguistics
 - [English Verb Classes and Alternations](https://books.google.com.tr/books/about/English_Verb_Classes_and_Alternations.html?id=6wIZWOrcBf8C&redir_esc=y)
 - [The Grammar of the English Verb Phrase](https://www.amazon.com/Grammar-English-Verb-Phrase-Linguistics/dp/311018589X)
 - [Doing English Grammar - Theory, Description and Practice](https://www.cambridge.org/core/books/doing-english-grammar/21AB98F6C381C494CE36988A32F642AC)
+- [Oxford Modern English Grammar](https://www.amazon.com/Oxford-Modern-English-Grammar-Aarts/dp/0199533199)
 
 
 ##### Semantics
