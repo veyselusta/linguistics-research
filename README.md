@@ -25,7 +25,6 @@ A curated list of anything remotely related to linguistics
 
 ##### General
 - [Cambridge Textbooks in Linguistics - 77 books](https://www.cambridge.org/core/series/cambridge-textbooks-in-linguistics/79990002F07F78DC02C536C2BD183E71)
-- [The Architecture of Language](https://www.amazon.com/Architecture-Language-Oxford-India-Paperbacks/dp/019568446X)
 - [The Linguistic Structure of Modern English](https://www.amazon.com.tr/Linguistic-Structure-Modern-English/dp/9027211728)
 - [Introductory Linguistics](https://linguistics.ucla.edu/people/hayes/20/Text/HayesIntroductoryLinguistics2021.pdf)
 - [The Handbook of English Linguistics](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470753002)
@@ -41,7 +40,9 @@ A curated list of anything remotely related to linguistics
 - [English Verb Classes and Alternations](https://books.google.com.tr/books/about/English_Verb_Classes_and_Alternations.html?id=6wIZWOrcBf8C&redir_esc=y)
 - [The Grammar of the English Verb Phrase](https://www.amazon.com/Grammar-English-Verb-Phrase-Linguistics/dp/311018589X)
 - [Doing English Grammar - Theory, Description and Practice](https://www.cambridge.org/core/books/doing-english-grammar/21AB98F6C381C494CE36988A32F642AC)
-- [Oxford Modern English Grammar](https://www.amazon.com/Oxford-Modern-English-Grammar-Aarts/dp/0199533199)
+- [Introducing English Linguistics](https://www.cambridge.org/core/books/introducing-english-linguistics/B1497D048D8EF2BC1A1D84C3F32A14F2)
+- [Analysing English Grammar: An Inroduction](https://www.amazon.com/Analyzing-Grammar-Cambridge-Textbooks-Linguistics/dp/0521016533)
+- [Analysing Grammar - Cambridge](https://www.amazon.com/Analyzing-English-Grammar-Thomas-Klammer/dp/0205252524)
 
 
 ##### Semantics
