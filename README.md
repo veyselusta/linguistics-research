@@ -6,25 +6,41 @@ A curated list of anything remotely related to linguistics
 
 ## Table of Contents
 - [Books](#books)
+  * [Series](#series)
   * [General](#general)
   * [Semantics](#semantics)
   * [Style](#style)
   * [Phonology](#phonology)
+
 - [Papers](#papers)
+
 - [YouTube](#youtube)
--  [Websites](#websites)
+
+- [Websites](#websites)
+
 - [Conlang](#conglang)
+
 - [Communities](#communities)
+
 - [Turkish](#turkish)
   * [Books](#books)
   * [Papers](#papers)
   * [Videos](#videos)
+  
 - [Others](#others)
 
 ### Books
 
+##### Series
+- [Cambridge Textbooks in Linguistics](https://www.cambridge.org/core/series/cambridge-textbooks-in-linguistics/79990002F07F78DC02C536C2BD183E71)
+- [Oxford Studies in Theoretical Linguistics RSS](https://global.oup.com/academic/content/series/o/oxford-studies-in-theoretical-linguistics-ostl/?prevNumResPerPage=100&prevSortField=1&resultsPerPage=100&sortField=1&start=100&lang=en&cc=tr)
+- [Wikipedia English grammar books](https://en.wikipedia.org/wiki/Category:English_grammar_books)
+- [Topics in English Linguistics [TiEL] Series](https://www.goodreads.com/series/285183-topics-in-english-linguistics-tiel)
+- [Studies in Language and Social Interaction Series](https://www.goodreads.com/series/288238-studies-in-language-and-social-interaction)
+- [Studies in Interactional Sociolinguistics Series](https://www.goodreads.com/series/288517-studies-in-interactional-sociolinguistics)
+- [Pragmatics & Beyond New Series by Bettyruth Walter](https://www.goodreads.com/series/288102-pragmatics-beyond-new-series)
+
 ##### General
-- [Cambridge Textbooks in Linguistics - 77 books](https://www.cambridge.org/core/series/cambridge-textbooks-in-linguistics/79990002F07F78DC02C536C2BD183E71)
 - [The Linguistic Structure of Modern English](https://www.amazon.com.tr/Linguistic-Structure-Modern-English/dp/9027211728)
 - [Introductory Linguistics](https://linguistics.ucla.edu/people/hayes/20/Text/HayesIntroductoryLinguistics2021.pdf)
 - [The Handbook of English Linguistics](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470753002)
