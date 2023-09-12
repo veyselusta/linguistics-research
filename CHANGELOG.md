@@ -1,3 +1,6 @@
+### 12/9/2023
+- Add 'Equinox Textbooks and Surveys in Linguistics / Cardiff'
+
 ### 31/05/2023
 - Create new list named 'Series'
 - Add 'Oxford Studies in Theoretical Linguistics'

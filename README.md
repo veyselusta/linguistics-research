@@ -39,6 +39,7 @@ A curated list of anything remotely related to linguistics
 - [Studies in Language and Social Interaction Series](https://www.goodreads.com/series/288238-studies-in-language-and-social-interaction)
 - [Studies in Interactional Sociolinguistics Series](https://www.goodreads.com/series/288517-studies-in-interactional-sociolinguistics)
 - [Pragmatics & Beyond New Series by Bettyruth Walter](https://www.goodreads.com/series/288102-pragmatics-beyond-new-series)
+- [Equinox Textbooks and Surveys in Linguistics / Cardiff](https://www.equinoxpub.com/home/textbooks-and-surveys-in-linguistics/)
 
 ##### General
 - [The Linguistic Structure of Modern English](https://www.amazon.com.tr/Linguistic-Structure-Modern-English/dp/9027211728)
